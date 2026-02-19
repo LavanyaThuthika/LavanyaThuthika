@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **enhancing cloud security**
 
-- 👨‍💻 All of my projects are available at [Lavanya](Lavanya)
+<!-- 👨‍💻 All of my projects are available at [Lavanya](Lavanya) -->
 
 - 📫 How to reach me **lavanyathuthika@gmail.com**
 
