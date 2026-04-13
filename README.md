@@ -3,11 +3,11 @@
 <h1 align="center">Hi 👋, I'm T LAVANYA</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Quantum Computing**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **cyber security**
 
-- 🤝 I’m looking for help with **enhancing cloud security**
+- 🤝 I’m looking for help with **Artificial Intelligence**
 
 <!-- 👨‍💻 All of my projects are available at [Lavanya](Lavanya) -->
 
